@@ -5417,7 +5417,7 @@
   (gr_text "CLOSE TO\nHOLD RESET" (at 141.2 65.6) (layer "F.SilkS") (tstamp 28f775e7-c5d8-4c86-86c1-0ba96fe950ed)
     (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
-  (gr_text "~{DFB1\n}           " (at 107.2 94.2) (layer "F.SilkS") (tstamp 59c70e54-2e41-4324-bb34-f2fa79a133fa)
+  (gr_text "~{DFB1}" (at 107.188 90.043) (layer "F.SilkS") (tstamp 59c70e54-2e41-4324-bb34-f2fa79a133fa)
     (effects (font (size 5 5.45) (thickness 1) italic) (justify left))
   )
   (gr_text "X2 IS AN OPTIONAL INDEPENDENT FPU OSC\n\nREMOVE R18 IF POPULATED\n\nKEYBOARD MAY NOT CLOSE IF SOCKET USED\n" (at 65.4 85.4) (layer "F.SilkS") (tstamp 62cce16e-862a-4789-8154-a5e40b49f28c)
